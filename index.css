@@ -1,0 +1,37 @@
+.main-container{
+    width: 1921px;
+    height: 5922px;
+    border: 2px solid red;
+}
+.section-border{
+    border: 2px solid black;
+}
+img{
+    width: 19.01px;
+    height: 19.15px;
+}
+.text{
+    width: 101px;
+    height: 24px;
+}
+#hero-section{
+    height: 999px;
+}
+#things-your-need{
+    height: 724px;
+} 
+#exclusive-deals{
+    height: 960px;
+}
+#vacation-plan{
+    height: 893px;
+}
+#people-about-us{
+    height: 596px;
+}
+#blog{
+    height: 805px;
+}
+#footer{
+    height: 898px;
+}
